@@ -1,2 +1,2 @@
-# simple-cms
+# simple-lms
 A simple lms with django
